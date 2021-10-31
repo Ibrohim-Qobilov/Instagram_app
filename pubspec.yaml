@@ -43,10 +43,6 @@ dependencies:
   line_icons: ^2.0.1
   # qoshimcha belgi qo'yish uchun
   badges: ^2.0.1
-    # kamerani ishlatish uchun paket
-  camera: ^0.9.4+3
-  video_player: ^2.2.6
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
